@@ -19,3 +19,5 @@ Alex's LN REST service https://github.com/alexbosworth/ln-service
 Alex's LN GUI https://github.com/alexbosworth/lnd-gui
 
 ### Bitcoin balances (Bcoin)
+
+Bcoin install instructions here: https://github.com/bcoin-org/bcoin
