@@ -1,6 +1,6 @@
 # bcoin-hackathon
 
-Building a lightning hub (and multisig over lightning)
+Monetizing Full Nodes
 
 Collaborators: @alexbosworth @v6 @michaelfolkson
 
@@ -23,3 +23,7 @@ Alex's LN GUI https://github.com/alexbosworth/lnd-gui
 Bcoin install instructions here: https://github.com/bcoin-org/bcoin
 
 BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-boilerplate
+
+### Slides from Bcoin hackathon - Monetizing Full Nodes
+
+https://www.slideshare.net/michaelfolkson/bcoin-hackathon-slides
