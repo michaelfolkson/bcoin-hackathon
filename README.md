@@ -21,3 +21,5 @@ Alex's LN GUI https://github.com/alexbosworth/lnd-gui
 ### Bitcoin balances (Bcoin)
 
 Bcoin install instructions here: https://github.com/bcoin-org/bcoin
+
+BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-boilerplate
