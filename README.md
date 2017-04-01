@@ -23,3 +23,5 @@ Alex's LN GUI https://github.com/alexbosworth/lnd-gui
 Bcoin install instructions here: https://github.com/bcoin-org/bcoin
 
 BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-boilerplate
+
+## Slides from Bcoin hackathon - Monetizing Full Nodes
