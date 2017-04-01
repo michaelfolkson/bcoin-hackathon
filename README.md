@@ -24,4 +24,6 @@ Bcoin install instructions here: https://github.com/bcoin-org/bcoin
 
 BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-boilerplate
 
-## Slides from Bcoin hackathon - Monetizing Full Nodes
+### Slides from Bcoin hackathon - Monetizing Full Nodes
+
+https://www.slideshare.net/michaelfolkson/bcoin-hackathon-slides
