@@ -6,9 +6,7 @@ Collaborators: @alexbosworth @v6 @michaelfolkson
 
 ### Two sided wallet: 
 
-### Lightning 
-
-Lightning is a combination of three technologies: Multisignature, CLTV / CSV, HLT (hash lock time contracts - forward a promise that can only be unlocked by a secret)  
+### Lightning  
 
 Roasbeeef's btcd (w/ SegWit) https://github.com/Roasbeef/btcd
 
