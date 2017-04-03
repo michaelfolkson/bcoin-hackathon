@@ -8,6 +8,8 @@ Collaborators: @alexbosworth @v6 @michaelfolkson
 
 ### Lightning 
 
+Lightning is a combination of three technologies: Multisignature, CLTV / CSV, HLT (hash lock time contracts - forward a promise that can only be unlocked by a secret)  
+
 Roasbeeef's btcd (w/ SegWit) https://github.com/Roasbeef/btcd
 
 Roasbeef's dockerized btcd https://github.com/Roasbeef/btcd-in-a-box
