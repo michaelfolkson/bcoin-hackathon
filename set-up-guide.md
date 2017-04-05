@@ -16,7 +16,7 @@ bcoin should be installed globally so you should be able to run ```bcoin```. If 
 
 See https://github.com/bcoin-org/bcoin/wiki/Beginner's-Guide for more in-depth installation instructions.
 
-Then run the following
+Once you have confirmed that bcoin has been successfully installed globally, you may stop running bcoin and instead run the following:
 
 ```$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
 
