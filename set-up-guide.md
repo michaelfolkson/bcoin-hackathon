@@ -16,7 +16,7 @@ bcoin should be installed globally so you should be able to run ```bcoin```. If 
 
 See https://github.com/bcoin-org/bcoin/wiki/Beginner's-Guide for more in-depth installation instructions.
 
-Once you have confirmed that bcoin has been successfully installed globally, you may stop running bcoin and instead run the following:
+Once you have confirmed that bcoin has been successfully installed globally, you may stop running bcoin command from above and instead run the following:
 
 ```$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
 
@@ -26,7 +26,7 @@ Replace 172.17.0.1 with your Local IP address on the Wireless LAN. This can be b
 
 #### Terminal 2: BTCD ####
 
-After following teh instructions here: https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
+After following the instructions here: https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
 you are ready to run the following:
 
 ```~/gocode/src/github.com/roasbeef/btcd$ btcd --simnet --txindex --rpcuser=riskb --rpcpass=riskb --listen='127.0.0.1:18999' --rpclisten='127.0.0.1:19999' --addpeer='redsquad.dev.purse.io' --addpeer='10.7.64.53' --configfile='/home/nb/.btcd/btcd.conf' --generate --miningaddr=re1mKZbSabroCw5XzoAL9uLRXtnvPDoyDB --miningaddr=4NyX3pGCt6Zv5nRahysL4nSGNfvKUS44cC5X9 --miningaddr=rZ5dLBFvyUAsE6oBx8bsuf2PEPNcE5kahh```
